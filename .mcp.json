@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "indicpdf": {
+      "type": "http",
+      "url": "https://www.indicpdf.in/mcp"
+    }
+  }
+}

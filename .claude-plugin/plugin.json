@@ -1,0 +1,14 @@
+{
+  "name": "indicpdf",
+  "displayName": "IndicPDF",
+  "version": "1.0.0",
+  "description": "Convert Indian-language documents in Claude: old fonts such as Kruti Dev, Anu, Nudi, Bamini and SutonnyMJ to Unicode, Indian-language PDFs to editable Word, and text from one Indian script to another.",
+  "author": {
+    "name": "IndicPDF",
+    "email": "contact@indicpdf.in",
+    "url": "https://www.indicpdf.in"
+  },
+  "homepage": "https://www.indicpdf.in/connectors",
+  "license": "MIT",
+  "keywords": ["hindi", "telugu", "kannada", "tamil", "bengali", "unicode", "kruti-dev", "legacy-fonts", "ocr", "pdf-to-word"]
+}
