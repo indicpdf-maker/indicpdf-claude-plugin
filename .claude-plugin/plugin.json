@@ -10,5 +10,18 @@
   },
   "homepage": "https://www.indicpdf.in/connectors",
   "license": "MIT",
-  "keywords": ["hindi", "telugu", "kannada", "tamil", "bengali", "unicode", "kruti-dev", "legacy-fonts", "ocr", "pdf-to-word"]
+  "keywords": [
+    "hindi",
+    "telugu",
+    "kannada",
+    "tamil",
+    "bengali",
+    "unicode",
+    "kruti-dev",
+    "legacy-fonts",
+    "ocr",
+    "pdf-to-word"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://www.indicpdf.in/privacy"
 }
