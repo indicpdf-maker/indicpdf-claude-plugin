@@ -11,6 +11,9 @@ With it, Claude can:
 - turn Indian-language PDFs, scanned or not, into editable Word files with the
   layout kept;
 - write the same text in another Indian script;
+- read scans and photos of pages with OCR;
+- translate documents between English and Indian languages;
+- write Unicode text in an old font for Adobe PageMaker;
 - say what a document is (language, font, scanned or not) before converting it.
 
 ## Setup

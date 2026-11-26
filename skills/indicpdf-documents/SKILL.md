@@ -38,6 +38,12 @@ the file and convert it with IndicPDF.
 - Indian-language PDF, Unicode or scanned, to editable Word: `pdf_to_word`.
 - Same text in another Indian script (for example a Sanskrit stotram in
   Telugu letters): `convert_script`. This writes letters, it does not translate.
+- A scanned PDF or a photo of a page whose text is needed: `ocr_document`.
+- A document to translate between English and Indian languages, or between
+  two Indian languages: `translate_document`. Say the translation is made by
+  a machine and should be reviewed before official use.
+- A Unicode Word file or PDF to be set in Adobe PageMaker in an old font
+  (Kruti Dev, Anu, Nudi, Bamini and others): `convert_to_pagemaker`.
 - A conversion that is still running: `get_job` with its job id.
 - Credits and free allowance: `get_balance`.
 
